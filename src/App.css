@@ -1,0 +1,27 @@
+.main{
+  background-color: #292828db;
+  width: 45vw !important;
+  margin: 20px auto;
+  padding: 15px 25px;
+  display: flex; 
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.main .input-group{
+  width: 70%;
+}
+
+#copy{
+  cursor: pointer;
+}
+
+.controls{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 10px;
+}
+
